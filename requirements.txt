@@ -5,3 +5,4 @@ langchain==0.0.225
 flask
 notebook==7.0.6
 ipykernel==6.27.1
+pypdf==3.17.3
