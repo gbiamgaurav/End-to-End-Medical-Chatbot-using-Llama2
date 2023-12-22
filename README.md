@@ -25,3 +25,21 @@ Clone the Repo
 `https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main`
 
 ### Download the Model - `Llama-2-7B-Chat-GGML/llama-2-7b-chat.ggmlv3.q4_0.bin`
+
+
+## Run the Following Commands
+
+`python store_index.py`
+
+## Finally run the app
+
+`python app.py`
+
+
+## Techstack Used:
+
+- Python
+- Langchain
+- Flask
+- Meta Llama2
+- Pinecone
